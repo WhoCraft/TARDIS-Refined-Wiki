@@ -1,0 +1,20 @@
+<buildprofiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
+    <variables>
+        <primary-color>aqua</primary-color>
+        <custom-favicons>favicon.png</custom-favicons>
+        <header-logo>icon.png</header-logo>
+        <product-web-url>https://modrinth.com/mod/tardis-refined</product-web-url>
+        <download-title>Get the Mod</download-title>
+        <download-page>https://modrinth.com/mod/tardis-refined</download-page>
+        <showDownloadButton>false</showDownloadButton>
+
+    </variables>
+
+    <footer>
+        <link href="https://github.com/WhoCraft/TardisRefined">Github</link>
+        <link href="https://discord.com/invite/XGsGNG7cCD">Discord</link>
+    </footer>
+
+
+</buildprofiles>
