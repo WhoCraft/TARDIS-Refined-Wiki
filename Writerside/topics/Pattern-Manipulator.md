@@ -1,3 +1,3 @@
 # Pattern Manipulator
 
-Start typing here...
+Used for changing the pattern of a console unit. Interact with a console configurator to cycle through any registered patterns.
