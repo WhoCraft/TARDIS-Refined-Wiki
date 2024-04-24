@@ -1,6 +1,3 @@
-build-docs.yml
- {...}
-
 name: Build documentation
 
 on:
