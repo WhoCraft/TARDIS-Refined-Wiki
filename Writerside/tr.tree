@@ -16,7 +16,11 @@
         <toc-element topic="Locating-a-TARDIS-Seed.md"/>
         <toc-element topic="Your-TARDIS.md"/>
         <toc-element topic="The-Eye-of-Harmony-Power.md"/>
-        <toc-element topic="Piloting-the-TARDIS.md"/>
+        <toc-element topic="Piloting-the-TARDIS.md">
+            <toc-element topic="Controls.md"/>
+            <toc-element topic="Flight.md"/>
+            <toc-element topic="Computer-Bank-Functions.md"/>
+        </toc-element>
         <toc-element topic="Upgrades-and-Functions.md"/>
     </toc-element>
     <toc-element topic="Blocks.md">
@@ -39,6 +43,7 @@
     </toc-element>
     <toc-element topic="Datapack-Customisation.md">
         <toc-element topic="Desktops.md"/>
+        <toc-element topic="Hums.md"/>
         <toc-element topic="Patterns.md">
             <toc-element topic="Console-Unit-Patterns.md"/>
             <toc-element topic="External-Shell-Patterns.md"/>

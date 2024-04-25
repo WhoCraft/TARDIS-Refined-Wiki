@@ -10,7 +10,6 @@ The main control room, the default and interchangeable room that usually houses 
 The corridor hub is the connection between the Desktop, the Eye of Harmony Chamber, the ARS Upgrades Room and the outer corridors.
 ![corridor_hub.png](corridor_hub.png)
 
-
 ## The ARS Upgrades Room
 An unbreakable room which houses the TARDIS's core life, the ARS tree. Here you can spend TARDIS XP to unlock TARDIS abilities.
 

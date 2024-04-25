@@ -9,9 +9,9 @@ The Astral Manipulator is an in-world crafting block that allows the player to p
 ## Interfacing with the Astral Manipulator
 All interactions between the Astral Manipulator and the player must be done through the Amethyst Screwdriver multi-tool. A player may crouch interact with the multi-tool in hand at any point to cancel their selection.
 
-| Action                                                | Result                                                                                                      |
-|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Right Click with Amethyst Screwdriver, no selection   | Begins the AABB projections. Interacting with a block whilst the screwdriver is in hand will place a point. |
-| Right Click with Amethyst Screwdriver, with selection | Confirms the selection and will create the recipe's result, so long as it is valid.                         |
-| Right Click (empty hand)                              | Resets the projection if it is currently active.                                                            |
+| Action                                                | Result                                                                                                          |
+|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Right Click with Amethyst Screwdriver, no selection   | Begins the selection projection. Interacting with a block whilst the screwdriver is in hand will place a point. |
+| Right Click with Amethyst Screwdriver, with selection | Confirms the selection and will create the recipe's result, so long as it is valid.                             |
+| Right Click (empty hand)                              | Resets the projection if it is currently active.                                                                |
 

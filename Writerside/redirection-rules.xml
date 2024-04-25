@@ -14,4 +14,8 @@
         <description>Created after removal of "Getting Your Footing" from Help Instance</description>
         <accepts>Getting-Your-Footing.html</accepts>
     </rule>
+    <rule id="39aff492">
+        <description>Created after removal of "Changing looks" from TARDIS Refined Wiki</description>
+        <accepts>Changing-looks.html</accepts>
+    </rule>
 </rules>

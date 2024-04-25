@@ -1,3 +1,5 @@
 # Blocks
 
-Start typing here...
+Follow on to read about our blocks!
+
+![blocks.png](blocks.png)

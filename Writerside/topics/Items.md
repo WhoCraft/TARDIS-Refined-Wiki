@@ -1,3 +1,5 @@
 # Items
 
-Start typing here...
+Follow along to read about our items!
+
+![items.png](items.png)
