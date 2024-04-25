@@ -6,7 +6,6 @@ The following is a list of every control present on the TARDIS console units:
 > L - Left Click Interact <br/>
 > R - Right Click Interact
 
-
 Dimension
 : Sets the TARGET dimension from all non-TARDIS dimensions. Dimensions can be blacklisted in the config.
 : **REQUIRES UPGRADE**
