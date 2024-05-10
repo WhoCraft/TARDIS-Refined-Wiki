@@ -19,6 +19,8 @@ Alright, pushy. The Eye of Harmony's container has to be initialised by installi
 
 See Astral Manipulator crafting recipes for how to do this!
 
+![where_the_pillars_are.png](where_the_pillars_are.png)
+
 ![artron_pillar_in_slot.png](artron_pillar_in_slot.png)
 _As of writing this Wiki, we don't have a better pillar model. Hopefully that will be sorted soon! - River_
 
