@@ -17,6 +17,10 @@ The Eye of Harmony chamber can be found under the corridor hub, down the gravity
 
 Alright, pushy. The Eye of Harmony's container has to be initialised by installing and activating four Arton Pillars in the Artron Pillar slots which can be found around the Chamber.
 
+See Astral Manipulator crafting recipes for how to do this!
+
+![where_the_pillars_are.png](where_the_pillars_are.png)
+
 ![artron_pillar_in_slot.png](artron_pillar_in_slot.png)
 _As of writing this Wiki, we don't have a better pillar model. Hopefully that will be sorted soon! - River_
 

@@ -68,6 +68,7 @@
     + Landing pad summoning
     + Landing on people teleports them inside
     + Waypoint saving
+    + Desktop switching times - 120 seconds, 60 seconds and 10 seconds.
 
 ### WAYPOINTS
 + Allows for locations to be recorded onto the TARDIS
@@ -90,6 +91,7 @@
 
 ## CHANGES
 
++ Desktop generation now takes 180 seconds by default.
 + Added Destination Reached “Ding” noise. This plays when the TARDIS initially starts landing
 + Players must now use Shears to unlock the growth stage TARDIS
 + Corridor hub has been completely reworked, allowing for more areas to be modified 
