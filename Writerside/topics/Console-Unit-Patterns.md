@@ -33,7 +33,7 @@ A JSON must follow the following structure:
       "id": "example:copper",
       "name_component": "{\"color\":\"yellow\",\"text\":\"Copper\"}",
       "texture_definition": {
-        "emissive": true,
+        "emissive": false,
         "texture": "tardis_refined:textures/patterns/console/copper/copper_console.png"
       }
     },
@@ -46,8 +46,12 @@ A JSON must follow the following structure:
       }
     }
   ]
+  ,"replace": false
 }
 ```
+
+> If the ``"replace"`` field = `true`, it indicates that your patterns will replace all patterns for this Console Unit type.
+
 
 ## Resource Pack
 You also need to create a Minecraft Resource Pack that contains all the textures you will be using in each pattern.
