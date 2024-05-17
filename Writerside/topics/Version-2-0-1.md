@@ -12,6 +12,8 @@
 + Fixes [#257](https://github.com/WhoCraft/TardisRefined/issues/257) - Immersive Portals stops teleportation in ARS Airlock area
 + Fixes [#253](https://github.com/WhoCraft/TardisRefined/issues/253) - Failure to launch on NeoForge
 + Fixes [#254](https://github.com/WhoCraft/TardisRefined/issues/254) - Gravity well fall damage
++ Fixes [#273](https://github.com/WhoCraft/TardisRefined/issues/273) - Interior door texture glitch when external shell is changed
++ Fixes [#276](https://github.com/WhoCraft/TardisRefined/issues/276) - Mixins do not apply on NeoForge 
 + Refines Immersive Portal Compatibility (Not every Shell with have Immersive Portals yet)
 + Stopped the ability to sleep within a TARDIS (You can change this with a DataPack)
 
