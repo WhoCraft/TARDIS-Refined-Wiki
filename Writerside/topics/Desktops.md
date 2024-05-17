@@ -62,7 +62,7 @@ By default, the desktop preview texture will show a placeholder texture. If you 
 * assets
     * [your_resource_pack_namespace]
         * textures
-            * ui
+            * gui
                 * desktops
                     * [your_desktop_id].png
 ```

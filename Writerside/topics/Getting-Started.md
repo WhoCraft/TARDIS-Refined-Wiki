@@ -9,7 +9,7 @@ Welcome to TARDIS Refined, a Doctor Who mod that aims to expand and adapt the TA
 # The Basic Steps
 In order to get yourself on board the TARDIS as quickly as possible, you will have to complete the following steps.
 
-![209613115-8db558ab-e692-4629-8ec2-92504b9dfb59.png](209613115-8db558ab-e692-4629-8ec2-92504b9dfb59.png)
+![root_shell_cluster.png](root_shell_cluster.png)
 
 1. Create your Screwdriver and first Astral Manipulator
 2. Locate a TARDIS Root plant

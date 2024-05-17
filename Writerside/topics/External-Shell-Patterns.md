@@ -60,8 +60,11 @@ The JSON structure for Shell Patterns differ slightly from that of Console Patte
       "name_component": "{\"color\":\"yellow\",\"text\":\"Missing Key\"}"
     }
   ]
+  ,"replace": false
 }
 ```
+
+> If the ``"replace"`` field = `true`, it indicates that your patterns will replace all patterns for this Shell type.
 
 ## Resource Pack
 You also need to create a Minecraft Resource Pack that contains all the textures you will be using in each pattern.
