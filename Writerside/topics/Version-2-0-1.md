@@ -14,8 +14,9 @@
 + Fixes [#254](https://github.com/WhoCraft/TardisRefined/issues/254) - Gravity well fall damage
 + Fixes [#273](https://github.com/WhoCraft/TardisRefined/issues/273) - Interior door texture glitch when external shell is changed
 + Fixes [#276](https://github.com/WhoCraft/TardisRefined/issues/276) - Mixins do not apply on NeoForge 
++ Fixes [#263](https://github.com/WhoCraft/TardisRefined/issues/263) - Teleporting player within the same dimension via the corridor airlock does not update position.
 + Refines Immersive Portal Compatibility (Not every Shell with have Immersive Portals yet)
-+ Stopped the ability to sleep within a TARDIS (You can change this with a DataPack)
++ Stopped the ability to sleep within a TARDIS (Preventing sleeping inside a Tardis dimension was an intended feature but was originally not implemented correctly. To revert this change, customise with a DataPack)
 
 
 ## CODE IMPROVEMENTS
