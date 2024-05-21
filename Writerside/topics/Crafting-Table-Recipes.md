@@ -5,8 +5,11 @@ Mod Recommendation
 
 ## Crafting Table Recipes
 
+### Tardis Key
+![tardis_key_recipe.png](tardis_key_recipe.png)
+
 ### Amethyst Screwdriver
-![amethyst_screwdriver.png](amethyst_screwdriver.png)
+![amethyst_screwdriver_recipe.png](amethyst_screwdriver_recipe.png)
 
 ### Astral Manipulator
 ![astral_manipulator_recipe.png](astral_manipulator_recipe.png)
@@ -15,10 +18,10 @@ Mod Recommendation
 ![pattern_manipulator_recipe.png](pattern_manipulator_recipe.png)
 
 ### Growth Drill
-![growth_drill_recipe.png](growth_drill_recipe.png)
+![growth_drill_recipe.png](drill_recipe.png)
 
 ### AR Glasses
-![ar_glasses_recipe.png](ar_glasses_recipe.png)
+![ar_glasses_recipe.png](glasses_recipe.png)
 
 ### TARDIS Door Recipe
 ![tardis_door_recipe.png](tardis_door_recipe.png)
@@ -27,7 +30,8 @@ Mod Recommendation
 ![bulk_head_door_recipe.png](bulk_head_door_recipe.png)
 
 ### Zeiton Lantern
-![zeiton_lantern.png](zeiton_lantern.png)
+![zeiton_lantern.png](zeiton_lantern_recipe.png)
 
 ### Zeiton Infused Blocks
-![zeiton_infused_blocks.png](zeiton_infused_blocks.png)
+![zeiton_fused_copper_block_recipe.png](zeiton_fused_copper_block_recipe.png)
+![zeiton_fused_iron_block_recipe.png](zeiton_fused_iron_block_recipe.png)
