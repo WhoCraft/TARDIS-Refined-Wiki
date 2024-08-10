@@ -52,6 +52,7 @@
 
 
     <toc-element topic="Addon-Creation.md">
+        <toc-element topic="Adding-Tardis-Refined.md"/>
         <toc-element topic="Common-Events.md"/>
         <toc-element topic="Client-Events.md"/>
     </toc-element>
