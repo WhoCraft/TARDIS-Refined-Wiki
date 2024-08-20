@@ -51,10 +51,10 @@ Congratulations! You've made yourself a proto-TARDIS.
 
 Once the terraforming process has been completed, the proto-desktop, corridors, ARS room and the Eye of Harmony will become available to you. From here you might be interested in the next stages.
 
-Powering on
+[Powering on](The-Eye-of-Harmony-Power.md)
 : Opening the Eye of Harmony to channel power into the TARDIS
 
-Creating a Console Unit
+[Creating a Console Unit](Console-Unit.md)
 : Crafting a console unit so that you can pilot the TARDIS
 
 ![proto_desktop.png](proto_desktop.png)
