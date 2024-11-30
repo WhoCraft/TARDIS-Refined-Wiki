@@ -30,7 +30,7 @@ Follow these steps to integrate Tardis Refined with Complementary Shaders:
 
 6. **Add Tardis Refined Entry**
     - Add the following line to the same section, ensuring the format matches the existing entries:
-      ```plaintext
+      ```
       tardis_refined:tardis_console
       ```
 
