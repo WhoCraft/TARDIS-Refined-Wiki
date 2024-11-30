@@ -7,8 +7,8 @@
                  start-page="Getting-Started.md">
 
     <toc-element topic="Getting-Started.md"/>
-    <toc-element topic="Astral-Manipulator-Crafting.md"/>
     <toc-element topic="Crafting-Recipes.md">
+        <toc-element topic="Astral-Manipulator-Crafting.md"/>
         <toc-element topic="Astral-Manipulator-Recipes.md"/>
         <toc-element topic="Crafting-Table-Recipes.md"/>
     </toc-element>
@@ -48,6 +48,12 @@
             <toc-element topic="Console-Unit-Patterns.md"/>
             <toc-element topic="External-Shell-Patterns.md"/>
         </toc-element>
+    </toc-element>
+    <toc-element topic="Compatiblity.md">
+        <toc-element topic="Shaders.md"/>
+        <toc-element topic="ExtendedInventoryMods.md"/>
+        <toc-element topic="Diagonal-Blocks-Windows-Walls.md"/>
+        <toc-element topic="Portals.md"/>
     </toc-element>
 
 
