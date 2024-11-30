@@ -7,11 +7,13 @@
                  start-page="Getting-Started.md">
 
     <toc-element topic="Getting-Started.md"/>
+
     <toc-element topic="Crafting-Recipes.md">
         <toc-element topic="Astral-Manipulator-Crafting.md"/>
         <toc-element topic="Astral-Manipulator-Recipes.md"/>
         <toc-element topic="Crafting-Table-Recipes.md"/>
     </toc-element>
+
     <toc-element topic="The-TARDIS.md">
         <toc-element topic="Locating-a-TARDIS-Seed.md"/>
         <toc-element topic="Your-TARDIS.md"/>
@@ -23,6 +25,7 @@
         </toc-element>
         <toc-element topic="Upgrades-and-Functions.md"/>
     </toc-element>
+
     <toc-element topic="Blocks.md">
         <toc-element topic="TARDIS-Door.md"/>
         <toc-element topic="ARS-Egg.md"/>
@@ -34,6 +37,7 @@
         <toc-element topic="Fool-s-Stone.md"/>
         <toc-element topic="Flight-Detector.md"/>
     </toc-element>
+
     <toc-element topic="Items.md">
         <toc-element topic="TARDIS-Key.md"/>
         <toc-element topic="AR-Glasses.md"/>
@@ -41,6 +45,7 @@
         <toc-element topic="Pattern-Manipulator.md"/>
         <toc-element topic="Growth-Drill.md"/>
     </toc-element>
+
     <toc-element topic="Datapack-Customisation.md">
         <toc-element topic="Desktops.md"/>
         <toc-element topic="Hums.md"/>
@@ -49,6 +54,7 @@
             <toc-element topic="External-Shell-Patterns.md"/>
         </toc-element>
     </toc-element>
+
     <toc-element topic="Compatiblity.md">
         <toc-element topic="Shaders.md"/>
         <toc-element topic="ExtendedInventoryMods.md"/>
