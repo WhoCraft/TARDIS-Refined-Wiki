@@ -1,6 +1,6 @@
 # Version 2.0.2
 
-![TARDIS Refined](https://wiki.tardisrefined.net/TARDIS-Refined-Wiki/tardis_refined_v2.png)
+![tardis_refined_v2.png](tardis_refined_v2.png)
 
 
 ## ADDITIONS
