@@ -3,6 +3,7 @@
 The following is a list of changelogs with each version of the mod.
 
 ## 1.20.x
+[Version 2.1.0](Version-2-1-0.md)<br/>
 [Version 2.0.7](Version-2-0-7.md)<br/>
 [Version 2.0.6](Version-2-0-6.md)<br/>
 [Version 2.0.5](Version-2-0-5.md)<br/>
