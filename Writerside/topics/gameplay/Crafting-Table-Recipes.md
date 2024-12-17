@@ -8,6 +8,13 @@ Mod Recommendation
 ### Tardis Key
 ![tardis_key_recipe.png](tardis_key_recipe.png)
 
+### Mallet (UPCOMING)
+![tardis_refined_mallet.png](tardis_refined_mallet.png)
+
+### Test Tube (Only required in Adventure Mode) (UPCOMING)
+![](tardis_refined_test_tube.png)
+
+
 ### Amethyst Screwdriver
 ![amethyst_screwdriver_recipe.png](amethyst_screwdriver_recipe.png)
 

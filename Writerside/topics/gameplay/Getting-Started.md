@@ -11,9 +11,9 @@ In order to get yourself on board the TARDIS as quickly as possible, you will ha
 
 ![root_shell_cluster.png](root_shell_cluster.png)
 
-1. Create your Screwdriver and first Astral Manipulator
-2. Locate a TARDIS Root plant
-3. Grow the root into the basic shell
+1. Create your [Screwdriver](Crafting-Table-Recipes.md#amethyst-screwdriver) and first [Astral Manipulator](Crafting-Table-Recipes.md#astral-manipulator)
+2. Locate a [TARDIS Root plant](Locating-a-TARDIS-Seed.md#acquiring-a-root-plant)
+3. [Grow](Locating-a-TARDIS-Seed.md#growing-a-root-plant) the root into the basic shell
 4. Terraform the basic shell into a hollowed TARDIS
 5. Power the TARDIS and craft its requirements
 
