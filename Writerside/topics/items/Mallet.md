@@ -7,8 +7,8 @@ The Mallet is a versatile tool used for interacting with various controls and el
 ## Features
 
 ### Control Realignment
-When used on certain TARDIS controls that are misaligned:
-- The Mallet can re-align the control to its intended state.
+When used on TARDIS controls:
+- The Mallet will re-align EVERY control back to its original healthy state.
 - This process consumes durability from the Mallet.
 - While re-aligning, the Mallet emits particles and sound effects for feedback.
 
