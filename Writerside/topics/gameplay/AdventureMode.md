@@ -1,7 +1,9 @@
 # Adventure Mode
 
-While we released the first iterations of this mod, way back in 1.19.2, we found that mod-pack creators didn't like that the TARDIS could go to any dimension straight out the box
-We had settings to allow for black listing a dimension to avoid travel, but creators were more after a progression system of sorts
+While we released the first iterations of this mod, way back in 1.19.2,
+we found that mod-pack creators didn't like that the TARDIS could go to any dimension straight out the box.
+
+We had settings to allow for blacklisting a dimension to avoid travel, but creators were more after a progression system of sorts
 
 So we have now implemented our take on this!
 
