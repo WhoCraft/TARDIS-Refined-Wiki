@@ -8,12 +8,15 @@
         <download-title>Get the Mod</download-title>
         <download-page>https://modrinth.com/mod/tardis-refined</download-page>
         <showDownloadButton>false</showDownloadButton>
+        <noindex-content>false</noindex-content>
 
     </variables>
 
     <footer>
         <link href="https://github.com/WhoCraft/TardisRefined">Github</link>
         <link href="https://discord.com/invite/XGsGNG7cCD">Discord</link>
+        <link href="https://modrinth.com/mod/tardis-refined">Modrinth</link>
+        <link href="https://www.curseforge.com/minecraft/mc-mods/tardis-refined">CurseForge</link>
     </footer>
 
 

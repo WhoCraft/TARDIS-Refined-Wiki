@@ -80,9 +80,10 @@
 Mod Pack creators can now enable adventure mode in the server config - this will activate a mode where players have to visit a dimension and sample it in order to have their TARDIS travel there - Mod Pack creators can also add levels to automatically be sampled by a TARDIS
 
 #### Compatibility Notes
-- [Trinkets](https://wiki.tardisrefined.net/extendedinventorymods.html#trinkets)
-- [Curios](https://wiki.tardisrefined.net/extendedinventorymods.html#curios)
-- [Diagonal Windows](https://wiki.tardisrefined.net/diagonal-blocks-windows-walls.html#diagonal-walls)
+- [Trinkets](ExtendedInventoryMods.md#trinkets)
+- [Curios](ExtendedInventoryMods.md#curios)
+- [Diagonal Windows](Diagonal-Blocks-Windows-Walls.md)
+- [](ValkyrienSkies.md)
 
 
 #### Technical changes
@@ -104,7 +105,7 @@ Can't do it all ourselves, can we?
 - Fixed Coral Hum sound not looping as intended
 
 #### River Thomas & Govert 
-- Valkyrien Skies Compatibility
+- [Valkyrien Skies Compatibility](ValkyrienSkies.md)
 
 #### Lucraft
 - Assistance with JSON Model Loader
