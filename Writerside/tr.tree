@@ -67,6 +67,7 @@
         <toc-element topic="ExtendedInventoryMods.md"/>
         <toc-element topic="Diagonal-Blocks-Windows-Walls.md"/>
         <toc-element topic="Portals.md"/>
+        <toc-element topic="ValkyrienSkies.md"/>
     </toc-element>
 
 
@@ -98,5 +99,4 @@
 
     </toc-element>
     <toc-element topic="Contributing-to-this-Wiki.md"/>
-    <toc-element topic="ValkyrienSkies.md"/>
 </instance-profile>

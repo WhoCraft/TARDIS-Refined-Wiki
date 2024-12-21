@@ -11,6 +11,7 @@ If you have run into an issue with a mod while using Tardis Refined, report it t
 - [Diagonal Windows](Diagonal-Blocks-Windows-Walls.md#diagonal-windows)
 - [](Diagonal-Blocks-Windows-Walls.md#diagonal-walls)
 - [](Shaders.md)
+- [Valkyrien Skies](ValkyrienSkies.md)
 
 
 
