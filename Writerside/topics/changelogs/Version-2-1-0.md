@@ -15,6 +15,7 @@
 - Bug fix: Fixed a bug where the overlay keybinds always rendered the default key
 - Bug fix: Fixed a bug where a new TARDIS would believe it was at 0,0,0
 - Bug fix: Fixed a bug where users would be burned alive when using temperature mods
+- Bug fix: [Incompatibility] Shearing Tardis crashes the game with Valkyrien Skies installed [#324](https://github.com/WhoCraft/TardisRefined/issues/324)
 
 #### Enhancements
 - Enhancement: Added Adventure Mode
