@@ -1,6 +1,6 @@
 # Version 2.1.0 (UPCOMING)
 
-![TARDIS Refined](tardis_refined_v2_1.png)
+![TARDIS Refined](tardis_refined_v2.png)
 
 #### Bug Fixes
 - Bug fix: Added "Compatibility" with [Diagonal Windows](https://www.curseforge.com/minecraft/mc-mods/diagonal-windows)
@@ -57,6 +57,9 @@
 - Added Vortex: Non-Binary Flag
 - Added Vortex: Agender Flag
 - Added Vortex: Gay Flag
+- Added Shell Pattern (Police Box): Barbie
+- Added Shell Pattern (Police Box): Fourteen
+- Added Interior Hum: Copper
 
 #### Textures, Models & Animations
 - Texture: Updated all Factory Console Variants
@@ -83,7 +86,6 @@ Mod Pack creators can now enable adventure mode in the server config - this will
 - [Trinkets](ExtendedInventoryMods.md#trinkets)
 - [Curios](ExtendedInventoryMods.md#curios)
 - [Diagonal Windows](Diagonal-Blocks-Windows-Walls.md)
-- [](ValkyrienSkies.md)
 
 
 #### Technical changes
@@ -92,19 +94,19 @@ Mod Pack creators can now enable adventure mode in the server config - this will
 
 #### NOTE
 - Upon updating to this version, your previous: ``Return Location``, ``Current Location`` and ``Target Location`` will be reset
-  This will not lead to any other data loss, and your TARDIS will be exactly where you left it, take off once and you will be all sorted. This was a required change to resolve some issues
+  This will not lead to any other data loss and your TARDIS will be exactly where you left it, take off once and you will be all sorted. This was a required change to resolve some issues
 
 ### Special Thanks
 Can't do it all ourselves, can we?
 
-#### Edrax 
+#### Edrax
 - Vortex Rendering
 - User interface rendering
 
 #### MuttDud
 - Fixed Coral Hum sound not looping as intended
 
-#### River Thomas & Govert 
+#### River Thomas & Govert
 - [Valkyrien Skies Compatibility](ValkyrienSkies.md)
 
 #### Lucraft
