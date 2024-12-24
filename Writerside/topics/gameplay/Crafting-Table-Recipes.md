@@ -8,10 +8,10 @@ Mod Recommendation
 ### Tardis Key
 ![tardis_key_recipe.png](tardis_key_recipe.png)
 
-### Mallet (UPCOMING)
+### Mallet 
 ![tardis_refined_mallet.png](tardis_refined_mallet.png)
 
-### Test Tube (Only required in Adventure Mode) (UPCOMING)
+### Test Tube (Only required in Adventure Mode) 
 ![](tardis_refined_test_tube.png)
 
 

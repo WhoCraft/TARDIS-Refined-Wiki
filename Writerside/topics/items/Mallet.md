@@ -1,4 +1,4 @@
-# Mallet (UPCOMING)
+# Mallet 
 
 <img src="mallet.png" height="200"/>
 

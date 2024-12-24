@@ -1,4 +1,4 @@
-# Shell Viewer (UPCOMING)
+# Shell Viewer 
 
 Following update 2.1.0, you can now view your TARDIS exterior from the Monitor screen!
 This means that you can check for dangerous lava, the risk of falling off cliffs and just whether you like the location you've landed
