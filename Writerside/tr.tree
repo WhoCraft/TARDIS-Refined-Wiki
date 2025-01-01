@@ -76,6 +76,7 @@
         <toc-element topic="Adding-Tardis-Refined.md"/>
         <toc-element topic="Common-Events.md"/>
         <toc-element topic="Client-Events.md"/>
+        <toc-element topic="ModelCreation.md"/>
     </toc-element>
 
     <toc-element topic="Changelogs.md">
