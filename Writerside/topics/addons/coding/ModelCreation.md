@@ -16,4 +16,5 @@ Not entirely. Below are the currently known limitations:
 - **Decimal Parts**: These are supported.
 - **UV Rotating**: This feature doesn’t work. To achieve the same effect, manually adjust the U and V coordinates by swapping their positive/negative values.
 - **Part Inflation**: 100% fine!
+- **UV Coordinates**: Make sure that UV sizes and positions are whole numbers
 
