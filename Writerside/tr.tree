@@ -85,6 +85,7 @@
     <toc-element topic="Changelogs.md">
 
         <toc-element topic="1.20.x.md">
+            <toc-element topic="Version-2-1-6.md"/>
             <toc-element topic="Version-2-1-5.md"/>
             <toc-element topic="Version-2-1-4.md"/>
             <toc-element topic="Version-2-1-3.md"/>
