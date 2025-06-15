@@ -14,6 +14,6 @@
 - [Weeping Angels](https://modrinth.com/mod/weeping-angels)
 - [Regeneration](https://modrinth.com/mod/regeneration)
 - [Tardis Refined: ExtraShells](https://modrinth.com/mod/extrashells)
-- [Doctor Who: Deco (formerly WhoCosmetics)]([https://modrinth.com/mod/whocosmetics](https://modrinth.com/mod/doctor-who-deco))
+- [Doctor Who: Deco (formerly WhoCosmetics)](https://modrinth.com/mod/doctor-who-deco)
 - [TriadTech](https://modrinth.com/mod/triadtech)
 - [Black Archive](https://modrinth.com/mod/black-archive)
