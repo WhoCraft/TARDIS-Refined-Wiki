@@ -3,7 +3,7 @@
 ## What is the Astral Manipulator?
 The Astral Manipulator is an in-world crafting block that allows the player to project a selection of blocks to be converted into a new item. It is the only way to craft TARDIS devices.
 
-<img src="https://i.imgur.com/NikiH7r.gif" preview-src="https://i.imgur.com/NikiH7r.gif" alt="Astral Manipulator in action."/>
+![visual.gif](..%2F..%2Fimages%2Fgifs%2Fvisual.gif)
 
 ![astral_manipulator.png](astral_manipulator.png)
 
